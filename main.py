@@ -12,6 +12,7 @@ def printxtimes(loopNum, name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     loopNum = 50
-    printxtimes(loopNum, 'PyCharm')
+    name = 'PyCharm'
+    printxtimes(loopNum, name)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
